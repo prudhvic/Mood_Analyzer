@@ -1,0 +1,12 @@
+
+
+
+user query:pare
+
+system prompt :with data 
+
+send it to llm 
+
+decid mood and how he is thinking and next plan of action based on mood  basically mood analyzer 
+
+what he need to do based on his mood 
